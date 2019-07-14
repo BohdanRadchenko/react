@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "title": "apple",
+        "price": 1234,
+        "icon": "https://static.agcanada.com/wp-content/uploads/sites/5/2018/11/apple_GettyImages186843005_cmyk.jpg"
+    },
+    {
+        "id": 2,
+        "title": "juice",
+        "price": 2345,
+        "icon": "https://www.ndtv.com/cooks/images/mango%20squash-620.jpg?downsize=650:400&output-quality=70&output-format=webp"
+    },
+    {
+        "id": 3,
+        "title": "pineapple",
+        "price": 3456,
+        "icon": "https://images-na.ssl-images-amazon.com/images/I/51As6go7v0L._SL1066_.jpg"
+    }
+]
