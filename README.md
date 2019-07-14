@@ -1,4 +1,5 @@
-# react create app
+# REACT JS
+#react install
 npx create-react-app . /(folder)
 
 #Свойство propTypes
@@ -13,12 +14,12 @@ npm install styled-components@beta
 
 #Emotion
 npm i emotion
-Документация Emotion https://emotion.sh/docs/introduction
+Документация Emotion https://emotion.sh/docs/introduction 
 
 #react-config:
 npm i --save-dev prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y husky lint-staged
 
-#Документация Editorconfig https://editorconfig.org/
+#Документация Editorconfig https://editorconfig.org/.
 Этот файл добавит общие настройки редактора, такие как символы окончания строк.
 -----------------------
 .editorconfig
