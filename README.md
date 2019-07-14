@@ -1,16 +1,16 @@
 # REACT JS
 #react install
-npx create-react-app . /(folder)
+*npx create-react-app . /(folder)
 
-#Свойство propTypes
-npm install --save-dev prop-types
+#Свойство propTypes пакет
+*npm install --save-dev prop-types
 
 #Пакет classnames
-npm install classnames
+*npm install classnames
 
 #Styled Components
-npm install styled-components@beta
-Документация Styled Components https://www.styled-components.com/
+*npm install styled-components@beta
+*Документация Styled Components https://www.styled-components.com/
 
 #Emotion
 npm i emotion
